@@ -1,0 +1,53 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Convert md to html
+on: [push, workflow_dispatch]
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+
+      - name: Print directory
+        run: ls -a
+
+      - name: Export Slides HTML
+        run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.html --html true
+
+      - name: Export Slides PDF
+        run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.pdf --html true
+
+      - name: Export Longform PDF
+        uses: docker://pandoc/latex:latest
+        with:
+          args: -f markdown -s --syntax-highlight pygments -t pdf -o BuildVsUse_Longform.pdf LONGFORM.md
+
+      - name: Print directory
+        run: ls -a
+
+      - name: Archive Exports
+        uses: actions/upload-artifact@v7
+        with:
+          name: Notes Exports
+          path: BuildVsUse_*
+          retention-days: 7
+
+      - name: Tag branch (main only)
+        if: endswith(github.ref, 'main')
+        uses: mydea/action-tag-date-version@20.11.0
+        id: version-tag
+
+      - name: Cut a release (main only)
+        uses: ncipollo/release-action@v1
+        if: endsWith(github.ref, 'main')
+        with:
+          artifacts: BuildVsUse_*
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.version-tag.outputs.version }}
