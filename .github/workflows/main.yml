@@ -18,16 +18,16 @@ jobs:
       - name: Print directory
         run: ls -a
 
-      - name: Export Slides HTML
-        run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.html --html true
+      # - name: Export Slides HTML
+      #   run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.html --html true
 
-      - name: Export Slides PDF
-        run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.pdf --html true
+      # - name: Export Slides PDF
+      #   run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.pdf --html true
 
-      - name: Export Longform PDF
-        uses: docker://pandoc/latex:latest
-        with:
-          args: -f markdown -s --syntax-highlight pygments -t pdf -o BuildVsUse_Longform.pdf LONGFORM.md
+      # - name: Export Longform PDF
+      #   uses: docker://pandoc/latex:latest
+      #   with:
+      #     args: -f markdown -s --syntax-highlight pygments -t pdf -o BuildVsUse_Longform.pdf LONGFORM.md
 
       - name: Print directory
         run: ls -a
