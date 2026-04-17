@@ -1,0 +1,34 @@
+## "Mentoring and My General Advice" Outline
+
+- **How I got here and how I came to Mentoring college interns (3 mins)**
+- **The first session (7 mins)**
+	- You have to own your own decisions
+	- I have a perspective with bias, it is not yours
+		- Tell me what you see differently
+		- Give me some grace when I mess up
+		- If I don't attempt to understand, then I am not worth your time
+	- We're not going to talk technical, we're going to talk philosophical.
+	- Be a good human first, good employee second
+- **Reputation management - Storybuilding you (5 mins)**
+	- Your reputation walks in the room before you do, ensure it doesn't talk shit about you.
+	- Your reputation is the sum of peoples' experiences and interactions with you
+		- All experiences decay with time
+		- Negative experiences have a multiplier and a longer decay cycle
+		- Work towards more positive than negative.
+	- You will mess up!
+		- Give yourself grace
+		- How you respond is important, and leaves a more lasting impression than the screw up ever does
+	- Learn to talk about what you are doing, even if it isn't going well
+		- Constructive ways to talk about things not going so well
+- **Social currency - Building relationships with others (5 mins)**
+	- Learn the people around you, even those that are 1-2 degrees away from your role
+		- Their perspective is a gift, and having a relationship means you can receive that gift more often
+		- Learn what motivates them, what problems they have, and look for opportunities to collaborate and overcome
+	- Invest in relationships -- Offer to help if you can, and if you agree to help, make good on it to the best of your ability.
+	- Spend those investments -- Ask for help when you need it.The right kinds of requests can be both spending and investing at the same time.
+- **Be the example (5 mins)**
+	- Be the person you want other people to be. -- The Golden Rule
+	- Model the behavior you expect
+		- humility - admit when you don't know something or have messed up
+		- honesty - Be honest with people about what you know and how you feel
+		- listen - Listen to people when they talk and try to approach them where they are.
