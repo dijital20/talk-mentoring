@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 
 name: Convert md to html
-on: [push, workflow_dispatch]
+on: [ push, workflow_dispatch ]
 jobs:
   build:
     # The type of runner that the job will run on
@@ -18,16 +18,29 @@ jobs:
       - name: Print directory
         run: ls -a
 
-      # - name: Export Slides HTML
-      #   run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.html --html true
+      # Lightning talk
+      - name: Export Slides HTML
+        run: npx @marp-team/marp-cli@latest lightning/SLIDES.md -o
+          Mentoring_Lightning_Slides.html --html true
 
-      # - name: Export Slides PDF
-      #   run: npx @marp-team/marp-cli@latest SLIDES.md -o BuildVsUse_Slides.pdf --html true
+      - name: Export Slides PDF
+        run: npx @marp-team/marp-cli@latest lightning/SLIDES.md -o
+          Mentoring_Lightning_Slides.pdf --html true
 
-      # - name: Export Longform PDF
-      #   uses: docker://pandoc/latex:latest
-      #   with:
-      #     args: -f markdown -s --syntax-highlight pygments -t pdf -o BuildVsUse_Longform.pdf LONGFORM.md
+      # Full talk
+      - name: Export Slides HTML
+        run: npx @marp-team/marp-cli@latest full/SLIDES.md -o Mentoring_Full_Slides.html
+          --html true
+
+      - name: Export Slides PDF
+        run: npx @marp-team/marp-cli@latest full/SLIDES.md -o Mentoring_Full_Slides.pdf
+          --html true
+
+      - name: Export Longform PDF
+        uses: docker://pandoc/latex:latest
+        with:
+          args: -f markdown -s --syntax-highlight pygments -t pdf -o
+            Mentoring_Full_Longform.pdf full/LONGFORM.md
 
       - name: Print directory
         run: ls -a
