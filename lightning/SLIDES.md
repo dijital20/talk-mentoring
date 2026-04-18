@@ -35,20 +35,15 @@ style: |
     }
 ---
 
-# Mentoring and My General Advice
+# Session 0: First Contact
 
-*(lightning talk edition)*
 Josh Schneider
 
 <!-- _class: invert -->
 
 ---
 
-## Session 0
-
-*Our first meeting*
-
-<!-- _class: invert -->
+*"Session 0"*
 
 ---
 
@@ -60,7 +55,7 @@ I have a perspective, and that perspective is not unbiased.
 
 ---
 
-Neither of us are perfect, we will mess up.
+Neither of us are perfect, we will both mess up.
 
 ---
 
@@ -75,3 +70,8 @@ My job as a mentor is to:
 3. Connect you to people and resources
 4. Hold ***you*** accountable to ***your*** goals
 
+---
+
+Be a good human first, and a good employee second.
+
+The rest is up to you.
