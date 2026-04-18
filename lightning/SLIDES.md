@@ -9,7 +9,7 @@ style: |
     }
 
     section {
-        font-family: "Maple Mono NF";
+        text-shadow: lightgray 0px 5px 15px;
     }
 
     section h1 {
