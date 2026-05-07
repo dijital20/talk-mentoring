@@ -12,38 +12,20 @@ style: |
         text-shadow: lightgray 0px 5px 15px;
     }
 
-    section h1 {
-        font-size: 2.5em;
-    }
-
-    section.bigcode {
-        padding: 1em;
-    }
-
-    section.bigcode img {
-        margin: 2em;
-    }
-
-    section.bigcode pre {
-        font-size: 2em;
-        padding: 10px;
-    }
-
-    section.bigcode h2 {
-        text-align: center;
-        font-size: 2.5em;
+    section.invert {
+        text-shadow: none;
     }
 ---
 
 # Session 0: First Contact
 
-Josh Schneider
+A ⚡️lightning talk by **Josh Schneider**
 
 <!-- _class: invert -->
 
 ---
 
-*"Session 0"*
+## *"Session 0"*
 
 <!-- 
 Session 0 is my first meeting with my mentee. The purpose of Session 0 is to set the baseline for
@@ -59,7 +41,7 @@ Start by listening to what they want. When its time to speak, let's get to the i
 
 ---
 
-You have to own your decisions.
+*You* have to own your decisions.
 
 <!-- 
 My job is to provide advice. What you do with it is on you. Agency is the most important tool you
