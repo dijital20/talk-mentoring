@@ -23,17 +23,22 @@ style: |
 
 # Mentoring
 
-*At least, what I've learned so far*
-
-**Josh Schneider**
+*...At least, what I've learned so far...*
 
 <!-- 
-_class: invert 
+_class: invert
+_footer: Josh Schneider • ![invert w:1em](img/Octicons-mark-github.svg) [@dijital20](https://github.com/dijital20) / [talk-mentoring](https://github.com/dijital20/talk-mentoring) • ![invert w:1em](img/mastodon.svg) [mastodon.social/@diji](https://mastodon.social/@diji)
 -->
 
 ---
 
 ## How I got here
+
+---
+
+### A quick thanks...
+
+Josey • Sameer • Peres • Ariana • Mara • Anusri • Hailey
 
 ---
 
@@ -47,9 +52,13 @@ _class: invert
 
 ### *"Mentor, I choose you!"*
 
+![bg right h:90% drop-shadow:0,5px,15px,gray](img/i-choose-you.png)
+
 ---
 
 ### *"I know someone you can talk to..."*
+
+![bg left h:90% drop-shadow:0,5px,15px,gray](img/guy-who-knows-a-guy.jpg)
 
 ---
 
@@ -93,7 +102,19 @@ _class: invert
 * ...hold ***you*** accountable to ***your*** goals
 * ...occasionally, hopefully, inspire you
 
-<!-- _class: noBullets -->
+<!-- 
+_class: noBullets 
+-->
+
+---
+
+## Universal Knowledge
+
+⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ 🅱️ 🅰️
+
+<!--
+_class: invert
+-->
 
 ---
 
@@ -106,6 +127,8 @@ _class: invert
 ---
 
 Your reputation walks into the room before you do and talks about you.
+
+Don't let that apparition talk 💩!
 
 ---
 
@@ -120,7 +143,7 @@ reputation = (
 
 ---
 
-### Positive experiences help.
+### Positive experiences help
 
 How much depends on how meaningful they are to the speaker.
 
@@ -128,7 +151,7 @@ They decay faster than negative experiences.
 
 ---
 
-### Negative experiences hinder.
+### Negative experiences hinder
 
 How long they linger and how strong they are depend on how meaningful they are to the speaker.
 
@@ -154,6 +177,12 @@ Good response dulls a negative experience, bad response magnifies it.
 
 ---
 
+### Humans and Memes
+
+Reputation is a meme, and memes spread through people.
+
+---
+
 ## Social Currency
 
 <!--
@@ -161,3 +190,46 @@ _class: invert
 -->
 
 ---
+
+```python
+
+balance_with_them += value_to_them - effort_from_them
+
+```
+
+---
+
+### Investing
+
+Effort from the recipient is **less than** the value to them.
+
+---
+
+### Withdrawing
+
+Effort from the recipient is **greater than** the value to them.
+
+*Withdrawing is, in a way, an investment.*
+
+---
+
+### Balance the Scales
+
+* Get to know the people to the left and right of you.
+* Invest in those relationships
+* Withdraw when you need to
+* Try to Invest more than you Withdraw
+
+---
+
+## In Closing
+
+We all stand on the shoulders of giants.
+
+Share what you've learned.
+
+Mentor.
+
+<!--
+_class: invert
+-->
