@@ -143,6 +143,14 @@ reputation = (
 
 ---
 
+### Proximity Matters
+
+Proximity of the speaker or receiver adds or removes credibility.
+
+The closer the speaker or recipient is, the more *"real"* your reputation is.
+
+---
+
 ### Positive experiences help
 
 How much depends on how meaningful they are to the speaker.
@@ -209,13 +217,17 @@ Effort from the recipient is **less than** the value to them.
 
 Effort from the recipient is **greater than** the value to them.
 
-*Withdrawing is, in a way, an investment.*
+---
+
+#### Humans are social...
+
+*Counterintuitively, withdrawing can be an investment.*
 
 ---
 
 ### Balance the Scales
 
-* Get to know the people to the left and right of you.
+* Get to know the people to the left and right of you, even those just outside your orbit.
 * Invest in those relationships
 * Withdraw when you need to
 * Try to Invest more than you Withdraw
