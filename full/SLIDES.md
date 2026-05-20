@@ -52,13 +52,13 @@ _class: invert
 
 ### *"Mentor, I choose you!"*
 
-![bg right h:90% drop-shadow:0,5px,15px,gray](img/i-choose-you.png)
+![bg right h:90% drop-shadow:0,5px,15px,lightgray](img/i-choose-you.png)
 
 ---
 
 ### *"I know someone you can talk to..."*
 
-![bg left h:90% drop-shadow:0,5px,15px,gray](img/guy-who-knows-a-guy.jpg)
+![bg left h:90% drop-shadow:0,5px,15px,lightgray](img/guy-who-knows-a-guy.jpg)
 
 ---
 
