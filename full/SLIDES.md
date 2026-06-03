@@ -308,7 +308,7 @@ Good response dulls a negative experience, bad response magnifies it.
 
 1. Take a breath and give yourself some grace
 2. Triage and Stabilize
-3. Identify where you went wrong and why
+3. Identify where things went wrong and why
 4. Identify what you will do different next time
 5. Make it right (to the best of your ability)
 
