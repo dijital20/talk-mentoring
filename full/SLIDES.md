@@ -201,7 +201,12 @@ _class: noBullets
 
 <!-- Speaker Notes:
 
-I'm here to advise and hold you accountable.
+My job is to do the following:
+- Listen. I'm your sounding board if you need it. I'm here for your questions, complaints, rants, and raves.
+- I provide advice. This part is easy. What worked for me. Remember, it's biased, so YMMV.
+- Connect you with people and resources that may help. I feel like this gets overlooked by some mentors, but it doesn't all come from me. Sometimes I don't have an answer, but I can probably introduce you to someone who has a perspective. Or maybe I have an article for you to read. Sometimes I'll tell you to watch an episode of Ted Lasso or Star Trek because I think there's something there to learn.
+- Hold you accountable to your goals... remember, you are in the driver's seat. These are your goals we're trying to reach, so I'm going to poke on you about what you're doing, how you're doing, and ask you annoying questions like whether you're being honest with yourself. Sometimes this will annoy you. Sorry.
+- Hopefully, I get to inspire. That's always fun.
 
  -->
 
@@ -237,6 +242,10 @@ Don't let that apparition talk 💩!
 
 <!-- Speaker Notes:
 
+I've heard the term "personal brand", and if that works for you, alright. Honestly, makes me throw up in my mouth a bit, but you do you.
+
+Your reputation is a ghost, a reflection of you that walks into the room before you do. Its in your best interest to not have it talking smack about you.
+
  -->
 
 ---
@@ -252,6 +261,12 @@ reputation = (
 
 <!-- Speaker Notes:
 
+If I were to model what reputation is, it's this:
+
+The sum of all good experiences, added to the sum of all bad experiences times the negative experience coefficient, multiplied by your proximity to speaker or recipient.
+
+In short, it's all the good stuff plus all the bad stuff (and then some) times how well the person talking about you knows you. Let's break it down...
+
  -->
 
 ---
@@ -263,6 +278,18 @@ Proximity of the speaker or receiver adds or removes credibility.
 The closer the speaker or recipient is, the more *"real"* your reputation is.
 
 <!-- Speaker Notes:
+
+First, the last part. Whether your reputation is coming through your resume, your LinkedIn profile, the sum of some subset of your social media footprint, or people; how close they are to you, how much they really know you, and how much they care factors into this.
+
+Likewise, the proximity of the speaker to the receipient plays a role.
+
+For instance... I walked into an interview a while back and found that everyone in the room already had an idea about this. I was recommended to apply for this job by my friend Scot, who I'd worked with previously. Everyone on the interview panel had heard about me already from Scot.
+
+First off, Scot had told them a lot of positive things about me. They were interested. They asked questions. They exhibited positive body language when I completely nerded out about a project I'd recently worked on. In no small part do I think that Scot's representation of me primed them for what to expect, and I was able to deliver.
+
+More than that, I also learned that people really listened to Scot and valued his opinion.. so not only was someone saying a lot of very good things about me, but they took that very seriously based on who was delivering it.
+
+So... who is talking about you is as important as what they're saying. The more credible and the more real it is, the more strongly it's taken.
 
  -->
 
@@ -276,6 +303,8 @@ They decay faster than negative experiences.
 
 <!-- Speaker Notes:
 
+People remember the good that you do. Huzzah! Do more good things. People remember those good things... for a while. Eventually, you get "that was yesterday, what have you done for me today?". You have to refresh the good things regularly... keep a steady pipeline of them.
+
  -->
 
 ---
@@ -288,6 +317,10 @@ They decay much slower; bad news is remembered longer than good news.
 
 <!-- Speaker Notes:
 
+Negative experiences hinder you... duh, but also, they have hang time! Negative experiences linger for a long while. While people forget the good thing you did for them, they remember that one time you messed up. How strong and how long depends on how bad it was to the person remembering it.
+
+Bad news remains, and remember this...
+
  -->
 
 ---
@@ -299,6 +332,10 @@ People usually remember your response (and how it made them feel) far more than 
 Good response dulls a negative experience, bad response magnifies it.
 
 <!-- Speaker Notes:
+
+You're gonna mess up! Failure is a visitor that will drop in, often unannounced, and be the most annoying houseguest. Seriously, like the "pack up and move with no forwarding address" kinda houseguest (don't worry, they'll find you wherever you go).
+
+THe thing is, people won't rememmber the failure as much as how you made them feel... but that's important, because it means you can change the odds, and bend a bad experience into a more positive direction.
 
  -->
 
@@ -314,6 +351,23 @@ Good response dulls a negative experience, bad response magnifies it.
 
 <!-- Speaker Notes:
 
+You can survive failing. It's possible. Here's what's worked for me:
+
+1. Take a breath and give yourself some grace
+What's happened has happened and you can't change that. Don't spiral. Take a moment to breathe (you're still alive), and go easy on yourself. The prophecies foretold this, and there's no escaping prophecy. Acceptance is the first step. You're in it, and the only way out is through.
+
+2. Triage and Stabilize
+Inaction is an action, and you need time to be inactive without things getting worse. Take inventory of the state of things: anything that will get worse if you leave it alone needs to be stabilized. Treat the symptoms here... you don't have time to get to the root causes. The goal is stability, not solution. Once you have things stable, time to solve.
+
+3. Identify where things went wrong and why
+You need to get real honest and real introspective. What lead to this situation? Really dig into this. Apply the 5 Why's and keep going until the problem is reduced to atoms. If you're having trouble, take a look at your assumptions... you might have had an incorrect one, or one that went unnoticed. Take a look at your judgements too... no decision has perfect info, but its possible you missed something. Either way, root cause is what you are looking for... and don't stop at one... sometimes there's a bunch of them. Like Shakespere said, "When sorrows come, they come not in single spies, but in battallions."
+
+4. Identify what you will do different next time
+Now that you know the cause, what did you learn? What are you going to do differently? Saying sorry without changing isn't helpful. The goal here is not repair, it's prevention. How are you going to prevent a mistake like this again. If there's nothing you can do, then there's nothing you can do... eat the loss and move on. If you can do something, make a change. If the reasons are many and overwhelming, resist the knee-jerk reactive tendency to try to change everything... that often won't help either; instead, focus on 1-3 things you can do, measure, and adjust. Getting better by degrees is still getting better, and a few small changes are likely to stick better than many or large changes.
+
+5. Make it right (to the best of your ability)
+Now that you've prevented, time to return to this here and now and deal with this. That person who you failed... is there anything you can do to make them whole? If you can, do it. If you can't fix everything, fixiing something is better than fixing nothing. Make it happen, cap'n. If there's nothing you can do, hopefully the change you made in step 4 is enough to help repair.
+
  -->
 
 ---
@@ -323,6 +377,10 @@ Good response dulls a negative experience, bad response magnifies it.
 Reputation is a meme, and memes spread through people.
 
 <!-- Speaker Notes:
+
+Reputation spreads through people... so splashing all of the expeirence has a tendency to concentrate the good and dilute the bad; so you should get some good experiences going.
+
+That leads to this...
 
  -->
 
@@ -344,6 +402,10 @@ balance_with_them += value_to_them - effort_from_them
 
 <!-- Speaker Notes:
 
+Social Currency is this idea that, with all of our relationships, we invest into them and withdraw from them. Your "balance" with them is, in the end, a simple sum of the value they get minus the effort they spend.
+
+I'm not, by any means, suggesting that you track this like some kind of bank account ledger, tracking down to the cent and trying to reach 0 balance... I'm saying tht, at the end of it all, you want to usually invest more than you withdraw.
+
  -->
 
 ---
@@ -353,6 +415,14 @@ balance_with_them += value_to_them - effort_from_them
 Effort from the recipient is **less than** the value to them.
 
 <!-- Speaker Notes:
+
+You're investing when the recpient percives that the effort they need to take is less than the value they get.
+
+If you have a friend that's sick, and you deliver a warm meal to them; that took no effort for them but may have a huge value as they aren't able to cook for themselves in their enfeebled state. Effort from them is less than value to them.
+
+Keep in mind that these factors are relative to the THEM, not you. So if you're congratulating yourself for doing the dishes, while everything else in the house is a mess and there are higher priority things to do, you probably aren't doing yourself any favors.
+
+How do you know what they value? You ask! Ask, listen, confirm.
 
  -->
 
@@ -364,6 +434,10 @@ Effort from the recipient is **greater than** the value to them.
 
 <!-- Speaker Notes:
 
+Withdrawing is, quite simply, when you ask for a favor. Effort from them is more than the value they are getting.
+
+This is an important part of things. You're going to need help. No one is an island unto themselves. Eventually, you need help. No one wants to spend all of their time doing everything, so eventually you will need help, and its okay to ask for it. If you don't feel like you can ask anyone for help, are you investing in your relationships? If you haven't had a chance to, that's fine... some people are all too willing to offer help on credit... just make sure you pay that back or forward in kind.
+
  -->
 
 ---
@@ -373,6 +447,8 @@ Effort from the recipient is **greater than** the value to them.
 *Counterintuitively, withdrawing can be an investment.*
 
 <!-- Speaker Notes:
+
+We're social creatures. We all like to feel useful and valued. You want someone to ask for help sometimes. You want someone to withdraw from your relationship because, counterintuitively, you get some value from it. Asking for help bonds us.
 
  -->
 
@@ -386,6 +462,20 @@ Effort from the recipient is **greater than** the value to them.
 * Try to Invest more than you Withdraw
 
 <!-- Speaker Notes:
+
+So how do you do this?
+
+- Get to know the people to the left and right of you.
+Don't just stick to your ville... spread out. If you're a new junior dev on your team, of course get to know the other developers on your team, but also get to know your product owner. Your team have an SRE they work with? Get to know them. You team have an Security engineer or architect that you work with? Get to know them? Know someone in marketing or customer service? Might not be bad to make some connections there too. Learn what they struggle with, what they care about, and how they see what your team does. More people spread your reputation and are opportunities to make relationships.
+
+- Invest
+Help those people with things important to them. Learn about their perspectives. Build some good experiences.
+
+- Withdraw
+Ask for help when you need it. If you've cultivated a diverse web of contacts, you might have a clutch contact that can help you or give you perspective when you need it. Let's say your team is trying to decide between two architectures that have different tradeoffs on the user experience, and you aren't sure which is better. That person you know in customer support? They might have an idea... and you asking for that help and bringing that perspective might be the clutch play that makes a killer good experience. Enough of those types of interactions, and you become "the guy/gal who knows a guy/gal".
+
+- Try to invest more than you withdraw
+Always try to give more than you take, to leave things positive. This isn't always feasible, but its a goal to work towards.
 
  -->
 
@@ -402,3 +492,17 @@ Mentor.
 <!--
 _class: invert
 -->
+
+<!-- Speaker Notes:
+
+Reputation and Social Currency will help you build relationships. Relationships are important. Whether they are strictly business, or grow into friendships, trusted advisors, or mentors; they're all valuable. The more relationships you have, the more reach you have as an individual.
+
+Be the kind of person you want to see out there.
+
+Be kind. Be helpful. Be inspiring. Be resilient. Be bold. Be reasonable. Be remarkable.
+
+Share what you learn. Keep the good ideas propagating.
+
+Mentor.
+
+ -->
