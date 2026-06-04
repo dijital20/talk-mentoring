@@ -30,11 +30,11 @@ jobs:
         run: |
           npx @marp-team/marp-cli@latest
           lightning/SLIDES.md
-          --pdf
+          --pdf true
           -o Mentoring_Lightning_Slides.pdf
           --html true
           --allow-local-files
-          --pdf-notes
+          --pdf-notes true
 
       # Full talk
       - name: Export Full Slides HTML
@@ -48,11 +48,11 @@ jobs:
         run: |
           npx @marp-team/marp-cli@latest
           full/SLIDES.md
-          --pdf
+          --pdf true
           -o Mentoring_Full_Slides.pdf
           --html true
           --allow-local-files
-          --pdf-notes
+          --pdf-notes true
 
       - name: Copy Images
         run: cp -R full/img img
