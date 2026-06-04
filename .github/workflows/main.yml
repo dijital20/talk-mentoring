@@ -19,24 +19,43 @@ jobs:
         run: ls -a
 
       # Lightning talk
-      - name: Export Slides HTML
-        run: npx @marp-team/marp-cli@latest lightning/SLIDES.md -o
-          Mentoring_Lightning_Slides.html --html true
+      - name: Export Lightning Slides HTML
+        run: |
+          npx @marp-team/marp-cli@latest
+          lightning/SLIDES.md
+          -o Mentoring_Lightning_Slides.html
+          --html true
 
-      - name: Export Slides PDF
-        run: npx @marp-team/marp-cli@latest lightning/SLIDES.md -o
-          Mentoring_Lightning_Slides.pdf --html true
+      - name: Export Lightning Slides PDF
+        run: |
+          npx @marp-team/marp-cli@latest
+          lightning/SLIDES.md
+          --pdf
+          -o Mentoring_Lightning_Slides.pdf
+          --html true
+          --allow-local-files
+          --pdf-notes
 
       # Full talk
-      - name: Export Slides HTML
-        run:
-          npx @marp-team/marp-cli@latest full/SLIDES.md -o Mentoring_Full_Slides.html
+      - name: Export Full Slides HTML
+        run: |
+          npx @marp-team/marp-cli@latest
+          full/SLIDES.md
+          -o Mentoring_Full_Slides.html
           --html true
 
-      - name: Export Slides PDF
-        run:
-          npx @marp-team/marp-cli@latest full/SLIDES.md -o Mentoring_Full_Slides.pdf
+      - name: Export Full Slides PDF
+        run: |
+          npx @marp-team/marp-cli@latest
+          full/SLIDES.md
+          --pdf
+          -o Mentoring_Full_Slides.pdf
           --html true
+          --allow-local-files
+          --pdf-notes
+
+      - name: Copy Images
+        run: cp -R full/img img
 
       # Debugging...
       - name: Print directory
@@ -46,7 +65,9 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: Notes Exports
-          path: Mentoring_*
+          path: |
+            Mentoring_*
+            img/*
           retention-days: 7
 
       - name: Tag branch (main only)
