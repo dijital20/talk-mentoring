@@ -20,39 +20,17 @@ jobs:
 
       # Lightning talk
       - name: Export Lightning Slides HTML
-        run: |
-          npx @marp-team/marp-cli@latest
-          lightning/SLIDES.md
-          -o Mentoring_Lightning_Slides.html
-          --html true
+        run: npx @marp-team/marp-cli@latest lightning/SLIDES.md --html true -o Mentoring_Lightning_Slides.html
 
       - name: Export Lightning Slides PDF
-        run: |
-          npx @marp-team/marp-cli@latest
-          lightning/SLIDES.md
-          --pdf true
-          -o Mentoring_Lightning_Slides.pdf
-          --html true
-          --allow-local-files
-          --pdf-notes true
+        run: npx @marp-team/marp-cli@latest lightning/SLIDES.md --pdf true --html true --pdf-notes true --allow-local-files -o Mentoring_Lightning_Slides.pdf
 
       # Full talk
       - name: Export Full Slides HTML
-        run: |
-          npx @marp-team/marp-cli@latest
-          full/SLIDES.md
-          -o Mentoring_Full_Slides.html
-          --html true
+        run: npx @marp-team/marp-cli@latest full/SLIDES.md --html true -o Mentoring_Full_Slides.html
 
       - name: Export Full Slides PDF
-        run: |
-          npx @marp-team/marp-cli@latest
-          full/SLIDES.md
-          --pdf true
-          -o Mentoring_Full_Slides.pdf
-          --html true
-          --allow-local-files
-          --pdf-notes true
+        run: npx @marp-team/marp-cli@latest full/SLIDES.md --pdf true --html true --allow-local-files --pdf-notes true -o Mentoring_Full_Slides.pdf
 
       - name: Copy Images
         run: cp -R full/img img
