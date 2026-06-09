@@ -8,12 +8,14 @@ style: |
         align: center;
     }
 
-    section {
-        text-shadow: lightgray 0px 5px 15px;
-    }
-
-    section.invert {
-        text-shadow: none;
+    @media screen {
+        section {
+            text-shadow: lightgray 0px 5px 15px;
+        }
+    
+        section.invert {
+            text-shadow: none;
+        }
     }
 ---
 
