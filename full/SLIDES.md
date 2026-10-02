@@ -351,6 +351,8 @@ THe thing is, people won't rememmber the failure as much as how you made them fe
 4. Identify what you will do different next time
 5. Make it right (to the best of your ability)
 
+*<span style="font-size: 0.5em;">(I liked this so much, I wrote it up [on my blog](https://somethingmoreserious.wordpress.com/2026/06/02/survival-guide-to-screwing-up/))</span>*
+
 <!-- Speaker Notes:
 
 You can survive failing. It's possible. Here's what's worked for me:
@@ -358,16 +360,16 @@ You can survive failing. It's possible. Here's what's worked for me:
 1. Take a breath and give yourself some grace
 What's happened has happened and you can't change that. Don't spiral. Take a moment to breathe (you're still alive), and go easy on yourself. The prophecies foretold this, and there's no escaping prophecy. Acceptance is the first step. You're in it, and the only way out is through.
 
-2. Triage and Stabilize
+1. Triage and Stabilize
 Inaction is an action, and you need time to be inactive without things getting worse. Take inventory of the state of things: anything that will get worse if you leave it alone needs to be stabilized. Treat the symptoms here... you don't have time to get to the root causes. The goal is stability, not solution. Once you have things stable, time to solve.
 
-3. Identify where things went wrong and why
+1. Identify where things went wrong and why
 You need to get real honest and real introspective. What lead to this situation? Really dig into this. Apply the 5 Why's and keep going until the problem is reduced to atoms. If you're having trouble, take a look at your assumptions... you might have had an incorrect one, or one that went unnoticed. Take a look at your judgements too... no decision has perfect info, but its possible you missed something. Either way, root cause is what you are looking for... and don't stop at one... sometimes there's a bunch of them. Like Shakespere said, "When sorrows come, they come not in single spies, but in battallions."
 
-4. Identify what you will do different next time
+1. Identify what you will do different next time
 Now that you know the cause, what did you learn? What are you going to do differently? Saying sorry without changing isn't helpful. The goal here is not repair, it's prevention. How are you going to prevent a mistake like this again. If there's nothing you can do, then there's nothing you can do... eat the loss and move on. If you can do something, make a change. If the reasons are many and overwhelming, resist the knee-jerk reactive tendency to try to change everything... that often won't help either; instead, focus on 1-3 things you can do, measure, and adjust. Getting better by degrees is still getting better, and a few small changes are likely to stick better than many or large changes.
 
-5. Make it right (to the best of your ability)
+1. Make it right (to the best of your ability)
 Now that you've prevented, time to return to this here and now and deal with this. That person who you failed... is there anything you can do to make them whole? If you can, do it. If you can't fix everything, fixiing something is better than fixing nothing. Make it happen, cap'n. If there's nothing you can do, hopefully the change you made in step 4 is enough to help repair.
 
  -->
