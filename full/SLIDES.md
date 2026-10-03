@@ -4,7 +4,7 @@ paginate: true
 theme: uncover
 style: |
     section{
-        font-family: Roboto;
+        font-family: Arial;
     }
 
     table {
