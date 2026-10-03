@@ -3,6 +3,10 @@ marp: true
 paginate: true
 theme: uncover
 style: |
+    section{
+        font-family: Roboto;
+    }
+
     table {
         margin-top: 1em;
         align: center;
