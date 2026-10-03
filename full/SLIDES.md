@@ -136,7 +136,7 @@ Start by listening to what they want. When its time to speak, let's get to the i
 
 ---
 
-> ***You*** have to own your decisions.
+> ***You*** have to own ***your*** decisions.
 
 <!-- Speaker Notes:
 
