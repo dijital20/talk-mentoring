@@ -258,10 +258,10 @@ Your reputation is a ghost, a reflection of you that walks into the room before 
 
 ```python
 
-reputation = (
+reputation = proximity_to_speaker * (
     sum(positive_experiences)
     + (sum(negative_experiences) * negative_exp_coef)
-) * proximity_to_speaker
+)
 
 ```
 
