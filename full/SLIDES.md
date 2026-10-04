@@ -3,6 +3,10 @@ marp: true
 paginate: true
 theme: uncover
 style: |
+    section{
+        font-family: Arial;
+    }
+
     table {
         margin-top: 1em;
         align: center;
@@ -132,7 +136,7 @@ Start by listening to what they want. When its time to speak, let's get to the i
 
 ---
 
-> ***You*** have to own your decisions.
+> ***You*** have to own ***your*** decisions.
 
 <!-- Speaker Notes:
 
@@ -254,10 +258,10 @@ Your reputation is a ghost, a reflection of you that walks into the room before 
 
 ```python
 
-reputation = (
+reputation = proximity_to_speaker * (
     sum(positive_experiences)
     + (sum(negative_experiences) * negative_exp_coef)
-) * proximity_to_speaker
+)
 
 ```
 
